@@ -1,0 +1,379 @@
+2020-01-02 16:27:00 INFO  Hooks:34 - Report initialized successfully
+2020-01-02 16:37:00 INFO  Hooks:34 - Report initialized successfully
+2020-01-02 16:37:07 INFO  LocationPage:133 - Location captured:: AUTO-163706
+2020-01-02 17:11:51 INFO  Hooks:34 - Report initialized successfully
+2020-01-02 17:12:01 INFO  LocationPage:133 - Location captured:: AUTO-171159
+2020-01-02 17:14:22 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-03 11:37:49 INFO  Hooks:34 - Report initialized successfully
+2020-01-03 14:35:18 INFO  Hooks:34 - Report initialized successfully
+2020-01-03 14:35:29 INFO  LocationPage:133 - Location captured:: AUTO-143527
+2020-01-03 14:37:51 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-03 14:37:56 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-03 14:37:56 INFO  Hooks:34 - Report initialized successfully
+2020-01-03 14:42:59 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-03 14:43:56 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-03 14:56:51 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-03 14:56:51 INFO  Hooks:34 - Report initialized successfully
+2020-01-03 14:57:05 INFO  LocationPage:133 - Location captured:: AUTO-145703
+2020-01-03 16:08:11 INFO  Hooks:34 - Report initialized successfully
+2020-01-03 16:08:20 INFO  LocationPage:133 - Location captured:: AUTO-160818
+2020-01-03 16:29:18 INFO  Hooks:34 - Report initialized successfully
+2020-01-03 16:29:25 INFO  LocationPage:133 - Location captured:: AUTO-162923
+2020-01-03 16:31:46 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:00:28 INFO  Hooks:34 - Report initialized successfully
+2020-01-06 10:00:39 INFO  LocationPage:133 - Location captured:: AUTO-100037
+2020-01-06 10:03:00 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:03:05 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-06 10:03:05 INFO  Hooks:34 - Report initialized successfully
+2020-01-06 10:08:07 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:09:03 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:09:08 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-06 10:09:08 INFO  Hooks:34 - Report initialized successfully
+2020-01-06 10:11:30 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:12:12 INFO  AssetsPage:121 - status changed to ACTIVE text is present
+2020-01-06 10:12:17 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-06 10:12:17 INFO  Hooks:34 - Report initialized successfully
+2020-01-06 10:18:04 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:18:09 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-06 10:18:09 INFO  Hooks:34 - Report initialized successfully
+2020-01-06 10:23:46 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:23:51 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-06 10:23:51 INFO  Hooks:34 - Report initialized successfully
+2020-01-06 10:30:32 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-06 10:33:32 INFO  AssetsPage:121 - status changed to ACTIVE text is present
+2020-01-09 09:22:21 INFO  Hooks:34 - Report initialized successfully
+2020-01-09 09:22:27 INFO  LocationPage:133 - Location captured:: AUTO-092225
+2020-01-09 09:24:50 INFO  AssetsPage:121 - Record has been saved text is present
+2020-01-09 13:15:33 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 08:52:09 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 08:54:50 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 09:00:41 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 09:03:44 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 09:08:41 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 09:09:37 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:24:38 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:30:26 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:35:34 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:36:15 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:36:23 INFO  LocationPage:133 - Location captured:: AUTO-123621
+2020-01-10 12:38:44 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:38:49 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-10 12:38:49 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:43:47 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:44:43 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:44:48 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-10 12:44:48 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:47:08 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:47:50 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-10 12:47:55 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-10 12:47:55 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:53:41 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:53:46 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-10 12:53:46 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 12:59:22 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 12:59:27 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-10 12:59:27 INFO  Hooks:34 - Report initialized successfully
+2020-01-10 13:06:09 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-10 13:09:10 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-13 09:58:14 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 09:59:05 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-13 09:59:05 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:08:00 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:08:10 INFO  LocationPage:133 - Location captured:: AUTO-100807
+2020-01-13 10:10:36 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 10:10:43 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-13 10:10:43 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:15:47 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 10:16:43 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 10:16:51 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-13 10:16:52 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:19:20 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 10:20:03 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-13 10:20:09 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-13 10:20:09 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:26:08 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 10:26:15 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-13 10:26:15 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:31:57 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 10:32:04 INFO  WebDriverManager:57 - Launched browser::CHROME
+2020-01-13 10:32:04 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 10:48:18 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 12:11:16 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 12:23:39 INFO  Hooks:34 - Report initialized successfully
+2020-01-13 12:30:20 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-13 12:33:20 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-17 10:28:04 INFO  Hooks:34 - Report initialized successfully
+2020-01-17 10:34:51 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-17 10:37:52 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-20 09:46:37 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:24:46 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:24:56 INFO  LocationPage:133 - Location captured:: AUTO-102454
+2020-01-20 10:27:18 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 10:27:23 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 10:27:23 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:32:43 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 10:33:39 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 10:33:45 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 10:33:45 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:36:10 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 10:36:53 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-20 10:36:57 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 10:36:57 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:39:24 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 10:39:24 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:45:13 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 10:45:18 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 10:45:18 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 10:52:26 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 10:55:26 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-20 11:30:32 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 11:45:16 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 16:06:39 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 16:07:08 INFO  LocationPage:133 - Location captured:: AUTO-160704
+2020-01-20 16:09:35 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 16:09:41 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 16:09:41 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 16:15:10 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 16:16:08 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 16:16:14 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 16:16:14 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 16:18:45 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 16:19:28 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-20 16:19:33 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 16:19:33 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 16:20:44 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 16:20:44 INFO  Hooks:34 - Report initialized successfully
+2020-01-20 16:26:29 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-20 16:26:35 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-20 16:26:35 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:00:44 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:01:45 INFO  LocationPage:133 - Location captured:: AUTO-170135
+2020-01-21 17:04:15 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:04:20 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-21 17:04:20 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:09:32 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:10:28 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:10:33 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-21 17:10:33 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:13:01 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:13:43 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-21 17:13:48 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-21 17:13:48 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:19:44 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:19:51 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-21 17:19:51 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:25:38 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:25:43 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-21 17:25:43 INFO  Hooks:34 - Report initialized successfully
+2020-01-21 17:33:03 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-21 17:36:04 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-24 09:48:42 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 09:49:13 INFO  LocationPage:133 - Location captured:: AUTO-094910
+2020-01-24 09:51:36 INFO  AssetsPage:125 - Record has been saved text is absent
+2020-01-24 09:51:41 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 09:51:41 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 09:54:37 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 09:54:37 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 09:57:23 INFO  AssetsPage:123 - Record has been saved text is present
+2020-01-24 09:58:06 INFO  AssetsPage:123 - status changed to ACTIVE text is present
+2020-01-24 09:58:11 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 09:58:11 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 10:04:54 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 12:08:32 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 13:41:05 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 13:45:59 INFO  AssetsPage:125 - Record has been saved text is absent
+2020-01-24 14:40:23 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 14:44:49 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 14:49:49 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 14:50:45 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 14:54:01 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 14:54:07 INFO  LocationPage:133 - Location captured:: AUTO-145405
+2020-01-24 14:56:28 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 14:56:32 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 14:56:32 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:01:33 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:02:28 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:02:33 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:02:33 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:04:54 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:05:37 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-01-24 15:05:41 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:05:41 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:11:29 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:11:34 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:11:34 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:17:11 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:17:16 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:17:16 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:23:59 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:26:59 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-01-24 15:27:25 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:27:30 INFO  LocationPage:133 - Location captured:: AUTO-152729
+2020-01-24 15:29:52 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:29:57 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:29:57 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:34:56 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:35:53 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:35:58 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:35:58 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:38:16 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:38:58 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-01-24 15:39:02 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:39:02 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:44:46 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:44:51 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:44:51 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:50:28 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 15:50:33 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-01-24 15:50:33 INFO  Hooks:34 - Report initialized successfully
+2020-01-24 15:57:14 INFO  AssetsPage:129 - Record has been saved text is present
+2020-01-24 16:00:14 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-04 17:38:34 INFO  Hooks:34 - Report initialized successfully
+2020-02-04 17:43:39 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 09:31:03 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 09:31:17 INFO  LocationPage:133 - Location captured:: AUTO-093113
+2020-02-17 09:33:38 INFO  AssetsPage:131 - Record has been saved text is absent
+2020-02-17 09:33:44 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-17 09:33:44 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 09:34:25 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-17 09:34:25 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 09:56:55 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 10:20:09 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 10:22:42 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-17 10:23:25 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-17 11:36:46 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 11:44:15 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 11:46:11 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 11:47:53 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 11:49:45 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 12:28:50 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 12:37:24 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:01:32 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:05:15 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:07:32 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:09:06 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:18:46 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:30:08 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:32:19 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:34:48 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-17 15:58:01 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 15:58:09 INFO  LocationPage:133 - Location captured:: AUTO-155807
+2020-02-17 16:00:30 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-17 16:02:07 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 16:02:12 INFO  LocationPage:133 - Location captured:: AUTO-160211
+2020-02-17 16:04:34 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-17 16:12:14 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 16:13:31 INFO  AssetsPage:131 - status changed to PNDREV text is absent
+2020-02-17 16:13:56 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 16:15:33 INFO  AssetsPage:129 - status changed to PNDREV text is present
+2020-02-17 16:18:53 INFO  Hooks:34 - Report initialized successfully
+2020-02-17 17:05:06 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:33:11 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:37:27 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:42:49 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:44:46 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 11:50:08 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:52:11 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:54:36 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 11:55:19 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-18 11:55:24 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 11:55:24 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 11:56:41 INFO  AssetsPage:129 - status changed to PNDREV text is present
+2020-02-18 11:58:05 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:17:42 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:20:01 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:20:43 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-18 12:20:48 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:20:48 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:22:04 INFO  AssetsPage:129 - status changed to PNDREV text is present
+2020-02-18 12:23:28 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:24:16 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:24:24 INFO  LocationPage:133 - Location captured:: AUTO-122422
+2020-02-18 12:26:46 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:26:52 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:26:52 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:31:54 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:32:50 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:32:56 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:32:56 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:35:18 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:36:01 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-18 12:36:06 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:36:06 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:37:24 INFO  AssetsPage:129 - status changed to PNDREV text is present
+2020-02-18 12:38:53 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:38:58 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:38:58 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:44:47 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:44:54 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:44:54 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:50:30 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 12:50:36 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 12:50:36 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 12:57:30 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:00:30 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-18 13:03:39 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:03:44 INFO  LocationPage:133 - Location captured:: AUTO-130343
+2020-02-18 13:06:16 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:06:22 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 13:06:22 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:11:22 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:12:18 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:12:24 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 13:12:24 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:14:43 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:15:24 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-18 13:15:30 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 13:15:30 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:16:46 INFO  AssetsPage:129 - status changed to PNDREV text is present
+2020-02-18 13:18:10 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:18:16 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 13:18:16 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:21:24 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 13:21:24 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:27:01 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:27:07 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-18 13:27:07 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 13:33:49 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-18 13:36:49 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-18 16:07:29 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 16:08:38 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 16:28:10 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 16:34:10 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 16:39:06 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 16:40:30 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 16:43:14 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 17:01:34 INFO  Hooks:34 - Report initialized successfully
+2020-02-18 17:09:35 INFO  Hooks:34 - Report initialized successfully
+2020-02-19 12:29:42 INFO  Hooks:34 - Report initialized successfully
+2020-02-19 12:36:44 INFO  Hooks:34 - Report initialized successfully
+2020-02-19 12:43:41 INFO  Hooks:34 - Report initialized successfully
+2020-02-19 13:09:22 INFO  Hooks:34 - Report initialized successfully
+2020-02-19 13:12:48 INFO  AssetsPage:129 - status changed to INACTIVE text is present
+2020-02-19 13:16:13 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-19 13:22:40 INFO  Hooks:34 - Report initialized successfully
+2020-02-19 13:26:05 INFO  AssetsPage:129 - status changed to INACTIVE text is present
+2020-02-19 13:29:31 INFO  AssetsPage:129 - status changed to ACTIVE text is present
+2020-02-21 09:48:11 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 09:48:20 INFO  LocationPage:133 - Location captured:: L-9rGZqNs
+2020-02-21 09:50:43 INFO  AssetsPage:129 - Record has been saved text is present
+2020-02-21 12:10:01 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:10:13 INFO  WebDriverManager:58 - Launched browser::CHROME
+2020-02-21 12:10:13 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:19:41 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:21:57 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:23:31 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:25:20 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:26:56 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:31:23 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 12:33:40 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:37:36 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:38:39 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:39:55 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:44:53 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:55:16 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:57:11 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 13:59:02 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 14:02:33 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 14:11:04 INFO  Hooks:34 - Report initialized successfully
+2020-02-21 14:13:35 INFO  Hooks:34 - Report initialized successfully

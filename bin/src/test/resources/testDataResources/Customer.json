@@ -1,0 +1,38 @@
+[	
+	{
+		"firstName": "Mohammad",
+		"lastName": "Islam",
+		"age": 30,
+		"emailAddress": "mohislam@panynj.gov",
+		"address": {
+			"streetAddress": "2 Montgomery St",
+			"city": "Jersey City",
+			"postCode": "07302",
+			"state": "NJ",
+			"country": "USA",
+			"county": "Jersey City"
+		},
+		"phoneNumber": {
+			"work": "12013953978",
+			"mob": "16465464893"
+		}
+	},
+	{
+		"firstName": "Deepa",
+		"lastName": "kini",
+		"age": 35,
+		"emailAddress": "dkini@panynj.gov",
+		"address": {
+			"streetAddress": "2 Montgomery St",
+			"city": "Jersey City",
+			"postCode": "07302",
+			"state": "NJ",
+			"country": "USA",
+			"county": "Jersey City"
+		},
+		"phoneNumber": {
+			"home": "012345678",
+			"mob": "0987654321"
+		}
+	}
+]
