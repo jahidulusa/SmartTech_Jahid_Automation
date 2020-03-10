@@ -20,3 +20,4 @@ Feature: As a user we need to create New Location in MPO
     Then user select "TENANT" from the Maintained By dialog box for Location
     And user left mouse click on disk icon for Save Location within Maximo tool bar
     And user verify "Record has been saved" message appears
+    And user verify "Record has been saved" message appears abc
