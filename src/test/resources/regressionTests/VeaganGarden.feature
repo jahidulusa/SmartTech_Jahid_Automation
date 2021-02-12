@@ -10,6 +10,11 @@ Scenario Outline: Successfully book a table at Veagan Garden
 	And user click on the submit button 
 	Then user verify success message "Your booking is confirmed" 
 	
+#	expected:
+#	"Your booking is confirmed"
+#	actual:
+#	"Date is missing"
+	
 	Examples:
 	|username|password|
 	|Parmita|5431354|
