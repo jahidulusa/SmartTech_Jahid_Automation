@@ -1,4 +1,4 @@
-@PM001 @smoketest
+@PM001 @smoketest @groupOne
 Feature: As a user we need to create a New Preventive Maintenance in MPO
 
   Scenario: Create a New Preventive Maintenance in MPO

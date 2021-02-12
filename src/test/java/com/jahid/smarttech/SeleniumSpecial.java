@@ -18,11 +18,11 @@ public class SeleniumSpecial {
 
 	public static void main(String[] args) throws Throwable {
 		// Set the path to the chromedriver executable
-		System.setProperty("webdriver.chrome.driver", "./driver/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C://Driver/chromedriver.exe");
 		// instantiate a Chrome session
 		WebDriver driver = new ChromeDriver();
 		// Open browser and go to home page
-		driver.get("https://learn.letskodeit.com/p/practice");
+		
 		// declare implicity wait
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		driver.manage().window().maximize();

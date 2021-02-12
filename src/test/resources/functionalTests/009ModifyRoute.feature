@@ -1,4 +1,4 @@
-@RT002 @smoketest
+@RT002 @smoketest @groupOne
 Feature: As a user we need to Modify Route in MPO
 
   Scenario: Modify Route in MPO

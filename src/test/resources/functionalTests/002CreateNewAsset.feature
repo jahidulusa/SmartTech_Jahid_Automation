@@ -10,7 +10,10 @@ Feature: As a user we need to create New Asset in MPO
     And user click on New Asset from Quick Insert menu
     And user captures the Asset name for "AS001" test case
     And user enter "This Asset is for test Automation" into the Asset description field
-    And user select captured "LO001" for Location field by clicking arrow then select value
+    And user select captured "LO001" for Location field by clicking arrow then select value  
+    |Name|Pass|
+    |Jahid|123|
+    |Kaniz|456|
     And user click on magnifying glass icon adjacent to Type text box under EAM New Fields
     Then user select first choice from the Type dialog box   
     And user click on magnifying glass icon adjacent to System text box under EAM New Fields
@@ -37,3 +40,5 @@ Feature: As a user we need to create New Asset in MPO
     And user select "Operating" as New Status from Change Status
     Then user click OK button in Change Status
     And user verify "Record has been saved" message appears
+    
+    

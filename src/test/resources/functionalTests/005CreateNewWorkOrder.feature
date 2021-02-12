@@ -1,4 +1,4 @@
-@WO004 @smoketest
+@WO004 @smoketest @groupOne
 Feature: As a user we need to create New Work Order in MPO
 
   Scenario: Create a New Work Order in MPO
