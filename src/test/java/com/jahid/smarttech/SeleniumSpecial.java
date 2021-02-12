@@ -35,6 +35,7 @@ public class SeleniumSpecial {
 		WebElement dropDown = driver.findElement(By.id("carselect"));
 		Select selectDrop = new Select(dropDown);
 		selectDrop.selectByVisibleText("Benz");
+		
 		// selectDrop.selectByIndex(2);
 
 		// Select Multiple Class Example
